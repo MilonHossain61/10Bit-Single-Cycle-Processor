@@ -1,0 +1,10 @@
+Machine code for instruction :1
+100 01 10 11
+Machine code for instruction :1
+100 01 10 11
+Machine code for instruction :2
+101 00 01 10
+Machine code for instruction :1
+000   
+Machine code for instruction :2
+   
